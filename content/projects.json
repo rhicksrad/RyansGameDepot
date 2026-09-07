@@ -417,12 +417,12 @@
       "lang": "TypeScript",
       "blurb": "A React scheduling calendar powered by live Teamup data through a Cloudflare Worker proxy.",
       "demo": "https://rhicksrad.github.io/PEVS/",
-      "commits": 136,
+      "commits": 138,
       "quotes": [
         "Live Teamup data through a Cloudflare Worker proxy.",
         "A React scheduling calendar for the ECC."
       ],
-      "pushedAt": "2026-02-24"
+      "pushedAt": "2026-09-03"
     },
     {
       "id": "food-roulette",
